@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "el-priser-App",
+  "short_name": "el-priser-App",
+  "description": "el-priser-app med data fra el-priser.dk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait-primary",
+  "lang": "da",
+  "icons": [
+    {
+      "src": "assets/img/bolt512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
